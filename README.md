@@ -1,4 +1,4 @@
-# Dangers of the Internet — Freelance Narrative Localization Project
+# Dangers of the Internet — Freelance Project
 
 <p align="center">
   <img src="banner.png" alt="Dangers of the Internet Localization Project Banner" width="100%">
